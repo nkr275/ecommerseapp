@@ -1,6 +1,4 @@
 sprint-1 stated
-
-sprint-1 bugs fix
-
+sprint-1 bugs fixed
 sprint-2 fixing
 sprint-2
