@@ -3,3 +3,5 @@ sprint-1 bugs fixed
 sprint-2 fixing
 sprint-2
 testing is progress
+working for qt
+working for qt
